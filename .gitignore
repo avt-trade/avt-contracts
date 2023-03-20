@@ -1,0 +1,15 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+exports
+typechain
+coverage
+coverage.json
+yarn.lock
+deployments/localhost
+
+.vscode
+.env
+.history
